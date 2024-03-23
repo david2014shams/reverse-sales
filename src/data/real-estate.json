@@ -1,0 +1,10 @@
+{
+    "firstname": "John",
+    "lastname": "Doe",
+    "age": 30,
+    "income": 80000,
+    "credit": 750,
+    "loan": 400000,
+    "loan_term": 30
+
+}
